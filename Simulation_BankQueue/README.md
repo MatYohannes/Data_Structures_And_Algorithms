@@ -16,16 +16,29 @@ Find the average wait for people going through the drive-in. Read the input from
 30 3
 
 The output would be:
+
 Taco Fry drive-in
+
 new event A 20 5
+
 new event A 22 4
+
 new event A 23 2
+
 new event D 25
+
 Customer at time 22 had to wait 3
+
 new event D 29
+
 Customer at time 23 had to wait 6
+
 new event A 30 3
+
 new event D 31
+
 Customer at time 30 had to wait 1
+
 new event D 34
+
 Average wait time was 2.5
