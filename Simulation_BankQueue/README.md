@@ -8,8 +8,11 @@ You may use a linked list for the eventList.
 Find the average wait for people going through the drive-in. Read the input from a sample file like:
 
 20 5
+
 22 4
+
 23 2
+
 30 3
 
 The output would be:
