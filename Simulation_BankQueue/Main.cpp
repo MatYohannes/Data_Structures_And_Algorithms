@@ -12,7 +12,7 @@ int main()
 	cout << "Taco Fry drive-in" << endl;
 
 	event.simulate(fileName);
-
+	
 	return 0;
 }
 
