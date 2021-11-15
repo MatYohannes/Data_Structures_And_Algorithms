@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-	string fileName = "Lab5a.txt";
+	// Input simulationTest filename below
+	string fileName = "SimulationTest1.txt";
 
 	Simulation event;
 
