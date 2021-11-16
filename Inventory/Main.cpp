@@ -30,7 +30,7 @@ int main()
 				name = subbedString.substr(subbedString.find(spaceDelimiter) + 1);
 				Inventory product(amount, perUnitCost, name);
 				store->insertSorted(product);
-			}
+			} 
 		}
 	}
 	cout << endl;
