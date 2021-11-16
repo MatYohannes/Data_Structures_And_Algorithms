@@ -1,0 +1,8 @@
+4 10.98 Gundam
+
+2 23.23 Zoids
+5 4.45 Mobile_suits
+
+19 2.77 Digimon
+
+103 3.99 Pokemon

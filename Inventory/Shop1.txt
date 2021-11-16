@@ -1,0 +1,5 @@
+5 1.95 Widgets, small
+
+11 2.99 Widgets, big
+
+6 9.99 Gidgets
