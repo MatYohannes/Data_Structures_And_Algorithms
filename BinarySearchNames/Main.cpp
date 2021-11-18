@@ -52,7 +52,7 @@ int main()
 	BinarySearchTree<string> aTree;
 	ofstream file(filename);
 	string name;
-
+	
 	// 1. Put the names that follow into a file
 	if (file.is_open())
 	{
@@ -121,7 +121,7 @@ int main()
 			cout << name << endl;
 			bTree.add(name);
 		}
-		// A full tree has the number of nodes of 2^h – 1
+		// A full tree has the number of nodes of 2^h â€“ 1
 		int balancedTreeNodeCount = pow(2,bTree.getHeight()) - 1;
 
 		// Number assigned to dummy node increments when added
